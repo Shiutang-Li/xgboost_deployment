@@ -2,7 +2,7 @@
 
 Convert XGBoost dump file to .py
 
-For instuctions, you may visit this article: https://towardsdatascience.com/xgboost-deployment-made-easy-6e11f4b3f817
+For instuctions, you may read this article: https://towardsdatascience.com/xgboost-deployment-made-easy-6e11f4b3f817
 
 
 ### Warnings- before you use the codes 
