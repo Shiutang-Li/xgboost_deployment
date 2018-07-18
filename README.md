@@ -2,7 +2,8 @@
 
 Convert XGBoost dump file to .py
 
-Download both train.csv and test.csv from https://www.kaggle.com/c/titanic/data. Create a subfolder /data and put the .csv there.
+For instuctions, you may visit this article: https://towardsdatascience.com/xgboost-deployment-made-easy-6e11f4b3f817
+
 
 ### Warnings- before you use the codes 
 
